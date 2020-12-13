@@ -80,12 +80,3 @@ Following the analysis in “Chilling Effects”, we will use the ITS approach t
 
 1. Are we allowed to make some adjustments to our proposal, given that some dataset may be out of expectations in the real analysis?
 2. Can you provide us with some suggestions on the improvement of segmented regression analysis?
-
-### TODO:
-YiHsin: 
-- find new longer dataset for China trade(已找到)(https://trendeconomy.com/data/h2?commodity=TOTAL&reporter=China&trade_flow=Export,Import&partner=World&indicator=NW,TQ,TV&time_period=2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019)
-- bar chart on trade partner排名
-- world map (以年為單位)
-- combine original ITS to subplot(同時把code更精簡)
-- top5 partner受貿易戰程度的影響
-    - 預計使用公式: |postslope.coeff/time feature|
