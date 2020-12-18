@@ -6,7 +6,7 @@
 
 ["Click here to access our data story"](https://jenscode-trash.github.io/lovela-data-science-TradeWar/) to visit our website.
 
-Please consider consulting the file called `project_notebook.html` in order to see our entire work without having to run the notebook `project_notebook.ipynb`.
+Also, please consider consulting the file called `project_notebook.html` in order to see our entire work without having to run the notebook `project_notebook.ipynb`.
 
 ### 2. Abstract
 
