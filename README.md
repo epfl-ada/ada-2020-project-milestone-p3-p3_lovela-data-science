@@ -31,6 +31,12 @@ This dataset gives out monthly trade amounts (from 2015 to 2020) between the U.S
 c. ["U.S. Trade in Goods with foreign countries"](https://www.census.gov/foreign-trade/statistics/country/index.html) from the United States Census website and ["China Trade in Goods with foreign countries"](http://www.customs.gov.cn/customs/302249/302274/302277/3227050/index.html) from China General Administration of Customs website. 
 The first dataset from the U.S. records monthly trade amounts (from 1985 to 2020) between the U.S. and its partner countries, concerning the exports, imports, and balance. The second dataset records monthly trade amounts (from 2014 to 2020) between China and its partner countries, concerning the exports and imports.We plan to use the exports and imports data from 2016 to 2020 to see if the trade war also impacts the trade amount of the U.S. and China with their other business partners.
 
+d. ["Global Merchandise Trade"](https://stats.oecd.org/Index.aspx?DataSetCode=MEI_TRD#) from Organisation for Economic Co-operation and Development (OECD).
+This dataset records monthly international trade from 1950 to 2020. We will export the "Monthly International Merchandise Trade" (IMTS) series from 2016-01 to 2020-10.
+
+e. ["Longer China Trade from WTO"](https://data.wto.org/) from WTO.
+The dataset records annually international trade from 1948 to 2020. We will use this dataset to explore the trade relationship between China and its trade partners from 1996 to 2018.
+
 
 
 ### 5. Methods
@@ -81,6 +87,6 @@ Following the analysis in “Chilling Effects”, we will use the ITS approach t
 
 ### 9. Contributions of all group members
 
-- Lin: Implement data analysis methods; Mainly focus on research question 1; Revise data story
-- Yihsin: Handle data preparation/cleaning on proposed datasets c; Mainly focus on research question 3; Revise data story
-- Wanqi: Handle data preparation/cleaning on proposed datasets b; Mainly focus on research question 2; Revise data story
+- Yuan Lin: Implement data analysis methods and research visualization methods; Mainly focus on research question 1; Data visualization for part 1; Revise data story
+- YiHsin Jen: Handle data preparation/cleaning on proposed datasets; Mainly focus on research question 3; Data visualization for part 2; Revise data story
+- Wanqi Hong: Build data story webpage; Mainly focus on research question 2; Data visualization for part 3; Revise data story
