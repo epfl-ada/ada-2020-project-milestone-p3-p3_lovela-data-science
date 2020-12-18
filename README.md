@@ -10,8 +10,7 @@ Also, please consider consulting the file called `project_notebook.html` in orde
 
 ### 2. Abstract
 
-Since the paper introduces interrupted time series (ITS) analysis as a practical method for event’s impact evaluation, we propose to study if we can apply ITS analysis to a different scenario: the China-United States trade war. To do so, we collect several different types of datasets (e.g., U.S. Trade in Goods with China, US foreign trade with product details) from the United States and China’s official website. We will then use ITS analysis on these datasets and see if there exists a significant impact on China-US trade. Moreover, we may try to extend the ITS analysis method to better interpret multiple events and other factors. The visualization of analysis will allow us to understand the economic outcomes easily. Apart from the general implications for exports and imports, we are also interested in investigating further into other aspects of the trade war: increasing tariffs during the trade war, different levels of impacts in various industries, the resulting change in the trade of their business partners such as the European Union. All these results would provide us with a deeper understanding of the impacts of the trade war, and we would try to interpret them from different perspectives.
-
+Since the paper introduces interrupted time series (ITS) analysis as a practical method for event’s impact evaluation, we propose to study if we can apply ITS analysis to a different scenario: the China-United States trade war. To do so, we collect several different types of datasets (e.g., U.S. Trade in Goods with China, US foreign trade with product details) from the United States and China’s official website. We will then use ITS analysis on these datasets and see if there exists a significant impact on China-US trade relationship. Moreover, we may try to extend the ITS analysis method to better interpret multiple events and other factors. The visualization of analysis will allow us to understand the economic outcomes more easily. Apart from the general implications for exports and imports, we are also interested in investigating further into other aspects of the trade war: different levels of impacts in various industries, the resulting change in the trade of their business partners such as the European Union, Japan, etc. All these results would provide us with a deeper and broader understanding of the impacts of China-US trade war, and we would try to interpret them from different perspectives.
 
 
 ### 3. Research questions
@@ -47,7 +46,7 @@ Following the analysis in “Chilling Effects”, we will use the ITS approach t
 
 **Data Collection**: To merge the proposed datasets above, we need to filter out the selected industries’ data in the dataset (b) and selected partners in (c). Then, we will form the split dataset to analyze different research questions.
 
-**Segmented Regression Analysis**: We will regard the trade war's breakout time (March 2018) as an intervention in the bilateral trade relationship and apply segmented regression analysis. We expect to interpret the change in overall exports and imports and the change of their trends with the results.
+**Segmented Regression Analysis**: We will regard the trade war's breakout time (March 2018) as an intervention in the bilateral trade relationship and apply segmented regression analysis. We expect to interpret the change in the overall exports and imports and the change of their trends with the results.
 
 **Performance Improvement**: Given the particularity of the problem (ongoing trade conflict and widespread impacts), we are trying to extend the ITS design to interpret the event in our scenario better.
 
@@ -67,7 +66,7 @@ Following the analysis in “Chilling Effects”, we will use the ITS approach t
 
 - **Step 3** (Dec 12th):  Improve data visualization, finish the final version of the notebook, and revise the data story.
 
-	 **Step 4** (Dec 18th):  Get our data story and presentation video prepared.	
+- **Step 4** (Dec 18th):  Get our data story and presentation video prepared.	
 
 
 
@@ -89,6 +88,6 @@ Following the analysis in “Chilling Effects”, we will use the ITS approach t
 
 ### 9. Contributions of all group members
 
-- Yuan Lin: Implement data analysis methods and research visualization methods; Mainly focus on research question 1; Data visualization for part 1; Revise data story
+- Lin Yuan: Implement data analysis methods and research visualization methods; Mainly focus on research question 1; Data visualization for part 1; Revise data story
 - YiHsin Jen: Handle data preparation/cleaning on proposed datasets; Mainly focus on research question 3; Data visualization for part 2; Revise data story
 - Wanqi Hong: Build data story webpage; Mainly focus on research question 2; Data visualization for part 3; Revise data story
