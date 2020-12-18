@@ -1,10 +1,16 @@
 # Project Proposal: Understanding the Impacts of China-US Trade War
 
+### Disclaimer
+
+["Click here to access our data story"](https://jenscode-trash.github.io/lovela-data-science-TradeWar/) to visit our website.
+
+Please consider consulting the file called `project_notebook.html`project_notebook.html) in order to see our entire work without having to run the notebook `project_notebook.ipynb`.
+
 ### 1. Title 
 
 **Understanding the Impacts of China-US Trade War**
 
-Click ["here"](https://jenscode-trash.github.io/lovela-data-science-TradeWar/) to visit our website
+
 
 ### 2. Abstract
 
