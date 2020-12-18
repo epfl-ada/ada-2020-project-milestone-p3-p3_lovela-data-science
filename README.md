@@ -4,7 +4,7 @@
 
 **Understanding the Impacts of China-US Trade War**
 
-["Click here to access our data story"](https://jenscode-trash.github.io/lovela-data-science-TradeWar/) to visit our website.
+["Click here"](https://jenscode-trash.github.io/lovela-data-science-TradeWar/) to access our data story.
 
 Also, please consider consulting the file called `project_notebook.html` in order to see our entire work without having to run the notebook `project_notebook.ipynb`.
 
